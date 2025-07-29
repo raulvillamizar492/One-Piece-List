@@ -1,3 +1,3 @@
-# onepiecelist
+# One Piece App
 
-A new Flutter project.
+Una Aplicacion desarrolada en local, sobre personajes de One Piece en los que usamos diferentes Widget y animaciones.
